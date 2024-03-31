@@ -1,0 +1,22 @@
+.header{
+font-size: '26px';
+color: white;
+
+}
+.headerContainer{
+    background-color: #b21eec;
+    height: 15vh;
+    z-index: 2;
+    box-shadow: 0px 4px 6px 2px #e3e3e3;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.disc{
+    margin-left: 10px;
+    font-size: 12px;
+    color: #dfdfdf;
+    padding-top: 7px;
+}
